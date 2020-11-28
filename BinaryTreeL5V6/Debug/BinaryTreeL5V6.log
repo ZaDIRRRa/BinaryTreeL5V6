@@ -1,0 +1,9 @@
+﻿  Functions.c
+C:\Users\Denis\source\repos\BinaryTreeL5V6\BinaryTreeL5V6\Functions.c(199,44): warning C4020: LoadingAdditional: слишком много фактических параметров
+C:\Users\Denis\source\repos\BinaryTreeL5V6\BinaryTreeL5V6\Functions.c(319,13): warning C4047: функция: "char *" отличается по уровням косвенного обращения от "char (*)[128]"
+C:\Users\Denis\source\repos\BinaryTreeL5V6\BinaryTreeL5V6\Functions.c(319,13): warning C4024: strcat: различные типы для формального и фактического параметров 1
+C:\Users\Denis\source\repos\BinaryTreeL5V6\BinaryTreeL5V6\Functions.c(337,16): warning C4090: return: разные квалификаторы "const"
+C:\Users\Denis\source\repos\BinaryTreeL5V6\BinaryTreeL5V6\Functions.c(339,25): warning C4090: функция: разные квалификаторы "const"
+C:\Users\Denis\source\repos\BinaryTreeL5V6\BinaryTreeL5V6\Functions.c(342,30): warning C4090: функция: разные квалификаторы "const"
+C:\Users\Denis\source\repos\BinaryTreeL5V6\BinaryTreeL5V6\Functions.c(346,16): warning C4090: return: разные квалификаторы "const"
+  BinaryTreeL5V6.vcxproj -> C:\Users\Denis\source\repos\BinaryTreeL5V6\Debug\BinaryTreeL5V6.exe
